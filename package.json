@@ -1,0 +1,32 @@
+{
+  "name": "overrustle-logs-url",
+  "version": "0.0.0",
+  "description": "Get the URL to OverRustle logs",
+  "keywords": [
+    "destinygg",
+    "overrustle"
+  ],
+  "repository": "KenanY/overrustle-logs-url",
+  "license": "MIT",
+  "author": "Kenan Yildirim <kenan@kenany.me> (http://kenany.me/)",
+  "main": "index.js",
+  "files": [
+    "index.js",
+    "LICENSE.txt"
+  ],
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "tape test/index.js"
+  },
+  "dependencies": {
+    "capitalize": "^1.0.0",
+    "moment": "^2.10.6",
+    "url-join": "^0.0.1"
+  },
+  "devDependencies": {
+    "lodash.isfunction": "^3.0.6",
+    "tape": "^4.2.2"
+  }
+}
