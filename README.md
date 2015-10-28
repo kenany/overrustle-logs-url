@@ -1,7 +1,7 @@
 # overrustle-logs-url
 
 [![Build Status][travis-svg]][travis]
-[![Dependency Status][gemnasium-svg]][gemnasium]
+![Dependency Status][david-svg]
 
 Get the URL to OverRustle logs.
 
@@ -51,5 +51,4 @@ _Object_ `opts`:
 
    [travis]: https://travis-ci.org/KenanY/overrustle-logs-url
    [travis-svg]: https://img.shields.io/travis/KenanY/overrustle-logs-url.svg
-   [gemnasium]: https://gemnasium.com/KenanY/overrustle-logs-url
-   [gemnasium-svg]: https://img.shields.io/gemnasium/KenanY/overrustle-logs-url.svg
+   [david-svg]: https://img.shields.io/david/KenanY/overrustle-logs-url.svg
