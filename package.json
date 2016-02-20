@@ -22,7 +22,7 @@
   },
   "dependencies": {
     "capitalize": "^1.0.0",
-    "moment": "^2.10.6",
+    "moment": "^2.11.2",
     "url-join": "^0.0.1"
   },
   "devDependencies": {
