@@ -23,7 +23,7 @@
   "dependencies": {
     "capitalize": "^1.0.0",
     "moment": "^2.11.2",
-    "url-join": "^0.0.1"
+    "url-join": "^1.0.0"
   },
   "devDependencies": {
     "lodash.isfunction": "^3.0.6",
