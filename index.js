@@ -6,7 +6,6 @@ var join = require('url-join');
 var domain = 'https://overrustlelogs.net';
 
 function overrustleLogsUrl(opts) {
-
   // use shorter url and just return it now since we don't need to do any date
   // stuff anymore
   if (opts.short) {
