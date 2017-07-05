@@ -24,7 +24,7 @@
   "dependencies": {
     "capitalize": "^1.0.0",
     "moment": "^2.11.2",
-    "url-join": "^1.0.0"
+    "url-join": "^2.0.2"
   },
   "devDependencies": {
     "@kenan/eslint-config": "^4.0.0",
