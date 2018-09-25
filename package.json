@@ -22,7 +22,7 @@
     "test": "tape test/index.js"
   },
   "dependencies": {
-    "capitalize": "^1.0.0",
+    "capitalize": "^2.0.0",
     "moment": "^2.11.2",
     "url-join": "^4.0.0"
   },
