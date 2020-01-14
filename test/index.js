@@ -1,6 +1,9 @@
-var overrustleLogsUrl = require('../');
+'use strict';
+
 var test = require('tape');
 var isFunction = require('lodash.isfunction');
+
+var overrustleLogsUrl = require('../');
 
 test('exports a function', function(t) {
   t.plan(1);
