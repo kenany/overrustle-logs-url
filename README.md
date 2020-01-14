@@ -1,8 +1,5 @@
 # overrustle-logs-url
 
-[![Build Status][travis-svg]][travis]
-![Dependency Status][david-svg]
-
 Get the URL to OverRustle logs.
 
 ## Example
@@ -47,8 +44,3 @@ _Object_ `opts`:
   - `opts.short`: _Boolean_ whether or not you would like the "short" URL (where
   the domain is `dgg.overrustlelogs.net`) which points specifically to logfiles
   for `opts.channel = 'destinygg'`. This is optional.
-
-
-   [travis]: https://travis-ci.org/KenanY/overrustle-logs-url
-   [travis-svg]: https://img.shields.io/travis/KenanY/overrustle-logs-url.svg
-   [david-svg]: https://img.shields.io/david/KenanY/overrustle-logs-url.svg
