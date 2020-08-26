@@ -23,7 +23,7 @@
     "release": "semantic-release"
   },
   "dependencies": {
-    "capitalize": "^2.0.0",
+    "capitalize": "^2.0.3",
     "moment": "^2.11.2",
     "url-join": "^4.0.0"
   },
